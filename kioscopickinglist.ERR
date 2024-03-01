@@ -1,0 +1,113 @@
+Program c:\kioscopickinglist\programas\mensajesql.prg has the following errors:
+    Unknown MATRIZ - Undefined
+
+Program c:\kioscopickinglist\programas\misprocedures.prg has the following errors:
+    Unknown VECTOR - Undefined
+
+Visual Class Library c:\ips\librerias\miclasepro.vcx has the following errors:
+    Proc./Func. MISPROCEDURES - Undefined
+    File 0001.PNG - Undefined
+    File 0002.PNG - Undefined
+    File EYE1.PNG - Undefined
+    File SHOPPINGCAR.PNG - Undefined
+    File BASKET-48.PNG - Undefined
+    File CLOUD-48.PNG - Undefined
+    File EX.JPG - Undefined
+    File CARGOLOGO.PNG - Undefined
+    File GUATEXLOGO.PNG - Undefined
+    File PANELINFASALOGO.PNG - Undefined
+
+Form c:\ips\formularios\analisisclie.scx has the following errors:
+    Unknown SQL_CONEXION - Undefined
+    Unknown ULTIMOERROR - Undefined
+    Unknown SQL_CONSULTA - Undefined
+    Unknown DTOSP - Undefined
+    Form RECIBOVIEW - Undefined
+    Unknown VPFACTURA - Undefined
+    Unknown VPRECIBOS - Undefined
+    Unknown VPRECIBOSE - Undefined
+    Unknown VPNOTAC - Undefined
+    Form HISOBSSALDOS - Undefined
+    Unknown VPPEDIDO - Undefined
+    File SUM.PNG - Undefined
+    File PAGE_ERROR.PNG - Undefined
+    File FLAG_BLUE.PNG - Undefined
+    Form INTERVALOESTADO - Undefined
+    Form REPORTES - Undefined
+    File EXCEL_32.PNG - Undefined
+    Form DETALLEFACCLIE - Undefined
+    Form ASKDATE - Undefined
+    Form INGRESOFACTURACOBROS - Undefined
+    File MONITOR_GO.PNG - Undefined
+    File PAGE_WHITE_FIND.PNG - Undefined
+    Form LISTACLIENTESFINALES - Undefined
+    File CHART_BAR.ICO - Undefined
+    File EXCELMINI.JPG - Undefined
+    Form XMLTRACKING - Undefined
+    File TRANSPORT.JPG - Undefined
+    File EXCEL2013.PNG - Undefined
+    Form RELACIONMB - Undefined
+    File GROUP_LINK.PNG - Undefined
+    Unknown SQL_CMF_CONEXION - Undefined
+    File CONTACTS16.PNG - Undefined
+    Form DETABONOS - Undefined
+    File FLAG_RED.PNG - Undefined
+    Proc./Func. SALIR - Undefined
+    File EXCLAMATION.PNG - Undefined
+    File OK.GIF - Undefined
+    Form BUSCACLISQL - Undefined
+    Form CLIENTES - Undefined
+    File APPLICATION_LIGHTNING.PNG - Undefined
+    Unknown SQL_FECHASQL - Undefined
+    Unknown SQL_EJECUTA - Undefined
+
+Form c:\ips\formularios\zoomestadisticas.scx has the following errors:
+    Unknown ULTIMOERROR - Undefined
+    Unknown SQL_CONSULTA - Undefined
+    Unknown DTOSP - Undefined
+    File FLAG_BLUE.PNG - Undefined
+    Form REPORTES - Undefined
+    Unknown SQL_CMF_CONEXION - Undefined
+    Unknown SQL_FECHASQL - Undefined
+    Unknown SQL_CMFCONSULTA - Undefined
+    Form BUSCADATOENTABLAM - Undefined
+    Visual Class Library CONAD - Undefined
+    Form HVISITAS - Undefined
+    Unknown ULTMOERROR - Undefined
+    File CALENDAR_VIEW_WEEK.PNG - Undefined
+    File ARROW_MERGE.PNG - Undefined
+    Form REPORTEZOOMDET2 - Undefined
+    Form RECETA - Undefined
+    File BUILDING_GO.PNG - Undefined
+    File ARROW_JOIN.PNG - Undefined
+    Form MEDICOS - Undefined
+    File IMAGE_EDIT.PNG - Undefined
+    Form TAREAS - Undefined
+    File CALENDAR_EDIT.PNG - Undefined
+    Form PACIENTESXMEDICO - Undefined
+    File STATUS_ONLINE.PNG - Undefined
+    Form ZOOMESTESP - Undefined
+    File SEARCH.GIF - Undefined
+    File APPLICATION_CASCADE.PNG - Undefined
+    Form DETAMEDICOS - Undefined
+    File USER_FEMALE.PNG - Undefined
+    File PRINTER_ADD.PNG - Undefined
+    File PILL_GO.PNG - Undefined
+    File BULLET_ARROW_DOWN.PNG - Undefined
+    File CONTROL_REPEAT_BLUE.PNG - Undefined
+    File PRINTER.PNG - Undefined
+    File CANCEL.PNG - Undefined
+    File LIGHTBULB_ADD.PNG - Undefined
+    Visual Class Library _ENVIRON - Undefined
+
+Report c:\kioscopickinglist\informes\recordatoriopago.frx has the following errors:
+    File LOGO INFASA NEGRO.JPG - Undefined
+    File WHATSAPP.JPG - Undefined
+    File DIGELASA-02-01.PNG - Undefined
+
+Report c:\kioscopickinglist\informes\empaque.frx has the following errors:
+    File INFASA02.JPG - Undefined
+
+Report c:\kioscopickinglist\informes\fac_envio2.frx has the following errors:
+    File DIGELASA-02-01.PNG - Undefined
+
