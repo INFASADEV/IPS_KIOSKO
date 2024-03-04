@@ -16,6 +16,8 @@ Visual Class Library c:\ips\librerias\miclasepro.vcx has the following errors:
     File CARGOLOGO.PNG - Undefined
     File GUATEXLOGO.PNG - Undefined
     File PANELINFASALOGO.PNG - Undefined
+    Form CALENDARIO - Undefined
+    File CALENDAR_VIEW_WEEK.PNG - Undefined
 
 Form c:\ips\formularios\analisisclie.scx has the following errors:
     Unknown SQL_CONEXION - Undefined
@@ -62,6 +64,7 @@ Form c:\ips\formularios\analisisclie.scx has the following errors:
     Unknown SQL_EJECUTA - Undefined
 
 Form c:\ips\formularios\zoomestadisticas.scx has the following errors:
+    File CALENDAR_VIEW_WEEK.PNG - Undefined
     Unknown ULTIMOERROR - Undefined
     Unknown SQL_CONSULTA - Undefined
     Unknown DTOSP - Undefined
@@ -74,7 +77,6 @@ Form c:\ips\formularios\zoomestadisticas.scx has the following errors:
     Visual Class Library CONAD - Undefined
     Form HVISITAS - Undefined
     Unknown ULTMOERROR - Undefined
-    File CALENDAR_VIEW_WEEK.PNG - Undefined
     File ARROW_MERGE.PNG - Undefined
     Form REPORTEZOOMDET2 - Undefined
     Form RECETA - Undefined
