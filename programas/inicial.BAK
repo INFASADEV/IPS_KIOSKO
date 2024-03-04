@@ -10,7 +10,7 @@ SET EXACT ON
 SET NOTIFY OFF
 *PUBLIC VNN
 DO paths
-oWsh = CREATEOBJECT("wscript.shell") 
-oWsh.Run("TASKKILL /IM explorer.exe /F", 3, .T.)
+*!*	oWsh = CREATEOBJECT("wscript.shell") 
+*!*	oWsh.Run("TASKKILL /IM explorer.exe /F", 3, .T.)
 DO FORM formularioblanco
 READ events

@@ -12,5 +12,6 @@ SET NOTIFY OFF
 DO paths
 *!*	oWsh = CREATEOBJECT("wscript.shell") 
 *!*	oWsh.Run("TASKKILL /IM explorer.exe /F", 3, .T.)
+*elmer rivera 04/03/2024
 DO FORM formularioblanco
 READ events
